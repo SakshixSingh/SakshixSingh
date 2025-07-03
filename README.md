@@ -14,7 +14,7 @@
 `HTML` • `CSS` • `JavaScript` • `React` • `Git` • `Figma` • `Bootstrap` • `AWS` • `Framer Motion` • `Firebase` • `Node.js` • `Figma`
 
 ### 💬 Let's Connect!
-[LinkedIn]([https://www.linkedin.com/in/your-link/](https://www.linkedin.com/in/sakshi-singh-88683024a/)) • [Portfolio](https://bysakshi.netlify.app/) • [LeetCode](https://leetcode.com/sakshiii02/)
+[LinkedIn]((https://www.linkedin.com/in/sakshi-singh-88683024a/)) • [Portfolio](https://bysakshi.netlify.app/) • [LeetCode](https://leetcode.com/sakshiii02/)
 
 ---
 
