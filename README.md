@@ -13,6 +13,8 @@
 ### 🛠️ Tech Stack
 `HTML` • `CSS` • `JavaScript` • `React` • `Git` • `Figma` • `Bootstrap` • `AWS` • `Framer Motion` • `Firebase` • `Node.js` • `Figma`
 
+📖 Check out my latest blog: [Clueless Coders Take Code for <Good/> : (ft. First Flight & Free Snacks)]([https://medium.com/your-blog-link-here](https://sakshiiscriibbless.medium.com/clueless-coders-take-code-for-good-ft-first-flight-free-snacks-5acf4e4f76dc))
+
 ### 💬 Let's Connect!
 [LinkedIn](https://www.linkedin.com/in/sakshi-singh-88683024a/) • [Portfolio](https://bysakshi.netlify.app/) • [LeetCode](https://leetcode.com/sakshiii02/)
 
