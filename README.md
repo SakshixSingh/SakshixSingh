@@ -13,7 +13,10 @@
 ### 🛠️ Tech Stack
 `HTML` • `CSS` • `JavaScript` • `React` • `Git` • `Figma` • `Bootstrap` • `AWS` • `Framer Motion` • `Firebase` • `Node.js` • `Figma`
 
-[![Medium](https://img.shields.io/badge/Sakshi's%20Blog-Read%20Now-brightgreen)]([https://medium.com/your-blog-link-here](https://sakshiiscriibbless.medium.com/clueless-coders-take-code-for-good-ft-first-flight-free-snacks-5acf4e4f76dc))
+## 📝 Blog Posts
+
+- 📖 [Clueless Coders Take Code for Good (ft. First Flight & Free Snacks)](https://sakshiiscriibbless.medium.com/clueless-coders-take-code-for-good-ft-first-flight-free-snacks-5acf4e4f76dc)
+
 
 
 ### 💬 Let's Connect!
