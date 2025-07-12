@@ -25,18 +25,25 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Languages and Tools
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-000000?style=flat&logo=figma&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat&logo=framer&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+<b>Languages and Tools :</b><br><br>
+<img src="https://img.icons8.com/color/344/html-5--v1.png" height="35">
+<img src="https://img.icons8.com/color/344/css3.png" height="35">
+<img src="https://img.icons8.com/color/2x/bootstrap.png" height="35">
+<img src="https://img.icons8.com/fluency/344/javascript.png" height="33">
+<img src="https://img.icons8.com/color/512/figma.png" height="35">
+<img src="https://img.icons8.com/ultraviolet/344/react--v1.png" height="35">
+<img height="35" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="amazon-web-services"/>
+<img src="https://raw.githubusercontent.com/Benio101/cpp-logo/master/cpp_logo.png" height="33">&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" height="33">
+<img src="https://img.icons8.com/color/344/python--v1.png" height="35">
+<img src="https://img.icons8.com/color/344/mysql-logo.png" height="40">
+<img src="https://img.icons8.com/color/2x/firebase.png" height="35">
+<img src="https://img.icons8.com/color/344/git.png" height="35">
+<img src="https://img.icons8.com/fluency/344/arduino.png" height="35">
+<img src="https://img.icons8.com/fluency/344/matlab.png" height="35">
+
 
 ---
 
