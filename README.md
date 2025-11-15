@@ -20,7 +20,8 @@
 ## 💡 What I Do
 
 - 🎨 Designing clean and intuitive interfaces  
-- 🔧 Building full-stack projects  
+- 🔧 Building Frontend projects
+- ⚙️ Exploring Backend
 - 📈 Analyzing data to drive UX decisions  
 
 ---
@@ -32,6 +33,8 @@
 <img src="https://img.icons8.com/color/344/css3.png" height="35">
 <img src="https://img.icons8.com/color/2x/bootstrap.png" height="35">
 <img src="https://img.icons8.com/fluency/344/javascript.png" height="33">
+<img src="https://img.icons8.com/fluency/344/node-js.png" height="35">
+<img src="https://img.icons8.com/fluency/344/express-js.png" height="35">
 <img src="https://img.icons8.com/color/512/figma.png" height="35">
 <img src="https://img.icons8.com/ultraviolet/344/react--v1.png" height="35">
 <img height="35" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="amazon-web-services"/>
@@ -43,6 +46,7 @@
 <img src="https://img.icons8.com/color/344/git.png" height="35">
 <img src="https://img.icons8.com/fluency/344/arduino.png" height="35">
 <img src="https://img.icons8.com/fluency/344/matlab.png" height="35">
+
 
 
 ---
