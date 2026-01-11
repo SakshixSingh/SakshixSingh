@@ -57,11 +57,7 @@
 
 ---
 
-## 🧠 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=SakshixSingh&show_icons=true&theme=tokyonight&rank_icon=percentile&custom_title=Sakshi's%20Dev%20Stats" width="400"/>
-
----
 
 
 
