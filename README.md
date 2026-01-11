@@ -12,7 +12,7 @@
 
 ---
 
-💻 UI/UX Designer | 🎨 Frontend Developer | 🧠 Tech Thinker  
+💻 UI/UX Designer | 🎨 FullStack Developer | 🧠 Tech Thinker  
 🏆 Code for Good 2024 Winner | 🎓 EEC @ Thapar '26
 
 ---
@@ -29,24 +29,32 @@
 ## 🛠️ Languages and Tools
 
 <b>Languages and Tools :</b><br><br>
-<img src="https://img.icons8.com/color/344/html-5--v1.png" height="35">
-<img src="https://img.icons8.com/color/344/css3.png" height="35">
-<img src="https://img.icons8.com/color/2x/bootstrap.png" height="35">
-<img src="https://img.icons8.com/fluency/344/javascript.png" height="33">
-<img src="https://img.icons8.com/fluency/344/node-js.png" height="35">
-<img src="https://img.icons8.com/fluency/344/express-js.png" height="35">
-<img src="https://img.icons8.com/color/512/figma.png" height="35">
-<img src="https://img.icons8.com/ultraviolet/344/react--v1.png" height="35">
-<img height="35" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="amazon-web-services"/>
-<img src="https://raw.githubusercontent.com/Benio101/cpp-logo/master/cpp_logo.png" height="33">&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" height="33">
-<img src="https://img.icons8.com/color/344/python--v1.png" height="35">
-<img src="https://img.icons8.com/color/344/mysql-logo.png" height="40">
-<img src="https://img.icons8.com/color/2x/firebase.png" height="35">
-<img src="https://img.icons8.com/color/344/git.png" height="35">
-<img src="https://img.icons8.com/fluency/344/arduino.png" height="35">
-<img src="https://img.icons8.com/fluency/344/matlab.png" height="35">
+<p align="center">
+  <img src="https://img.icons8.com/color/344/html-5--v1.png" height="35"/>
+  <img src="https://img.icons8.com/color/344/css3.png" height="35"/>
+  <img src="https://img.icons8.com/color/2x/bootstrap.png" height="35"/>
+  <img src="https://img.icons8.com/fluency/344/javascript.png" height="33"/>
 
+  <img src="https://img.icons8.com/fluency/344/node-js.png" height="35"/>
+  <img src="https://img.icons8.com/fluency/344/express-js.png" height="35"/>
+  <img src="https://img.icons8.com/color/384/mongodb.png" height="35"/>
+
+  <img src="https://img.icons8.com/ultraviolet/344/react--v1.png" height="35"/>
+  <img src="https://img.icons8.com/color/512/figma.png" height="35"/>
+
+  <img src="https://img.icons8.com/color/48/amazon-web-services.png" height="35"/>
+  <img src="https://img.icons8.com/color/344/git.png" height="35"/>
+
+  <img src="https://raw.githubusercontent.com/Benio101/cpp-logo/master/cpp_logo.png" height="33"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" height="33"/>
+  <img src="https://img.icons8.com/color/344/python--v1.png" height="35"/>
+
+  <img src="https://img.icons8.com/color/344/mysql-logo.png" height="40"/>
+  <img src="https://img.icons8.com/color/2x/firebase.png" height="35"/>
+
+  <img src="https://img.icons8.com/fluency/344/arduino.png" height="35"/>
+  <img src="https://img.icons8.com/fluency/344/matlab.png" height="35"/>
+</p>
 
 
 ---
