@@ -19,10 +19,10 @@
 
 ## 💡 What I Do
 
-- 🎨 Designing clean and intuitive interfaces  
-- 🔧 Building Frontend projects
-- ⚙️ Exploring Backend
-- 📈 Analyzing data to drive UX decisions  
+- ⚙️ Backend development and APIs  
+- 🤖 Learning agentic AI with LangChain  
+- 🎨 UI/UX design with a focus on usability  
+- 🧱 Some frontend development  
 
 ---
 
@@ -38,6 +38,8 @@
   <img src="https://img.icons8.com/fluency/344/node-js.png" height="35"/>
   <img src="https://img.icons8.com/fluency/344/express-js.png" height="35"/>
   <img src="https://img.icons8.com/color/384/mongodb.png" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/langchain.svg" height="35"/>
+
 
   <img src="https://img.icons8.com/ultraviolet/344/react--v1.png" height="35"/>
   <img src="https://img.icons8.com/color/512/figma.png" height="35"/>
