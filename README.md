@@ -12,8 +12,8 @@
 
 ---
 
-💻 UI/UX Designer | 🎨 FullStack Developer | 🧠 Tech Thinker  
-🏆 Code for Good 2024 Winner | 🎓 EEC @ Thapar '26
+💻 Full Stack Developer | 🧠 Agentic AI Explorer | 🎨 UI/UX Enthusiast  
+🏆 Code for Good 2024 Winner | 🎓 Thapar University '26
 
 ---
 
@@ -33,13 +33,14 @@
   <img src="https://img.icons8.com/color/344/html-5--v1.png" height="35"/>
   <img src="https://img.icons8.com/color/344/css3.png" height="35"/>
   <img src="https://img.icons8.com/color/2x/bootstrap.png" height="35"/>
+  
   <img src="https://img.icons8.com/fluency/344/javascript.png" height="33"/>
-
+     
+<img src="https://img.icons8.com/color/512/typescript.png" height="35"/>
   <img src="https://img.icons8.com/fluency/344/node-js.png" height="35"/>
   <img src="https://img.icons8.com/fluency/344/express-js.png" height="35"/>
   <img src="https://img.icons8.com/color/384/mongodb.png" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/langchain.svg" height="35"/>
-
+  <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" height="35"/>
 
   <img src="https://img.icons8.com/ultraviolet/344/react--v1.png" height="35"/>
   <img src="https://img.icons8.com/color/512/figma.png" height="35"/>
@@ -59,6 +60,7 @@
 
   <img src="https://img.icons8.com/fluency/344/arduino.png" height="35"/>
   <img src="https://img.icons8.com/fluency/344/matlab.png" height="35"/>
+
 </p>
 
 
