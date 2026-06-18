@@ -58,9 +58,9 @@
 
   <img src="https://img.icons8.com/color/344/mysql-logo.png" height="40"/>
   <img src="https://img.icons8.com/color/2x/firebase.png" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="35"/>
 
-  <img src="https://img.icons8.com/fluency/344/arduino.png" height="35"/>
-  <img src="https://img.icons8.com/fluency/344/matlab.png" height="35"/>
+
 
 </p>
 
