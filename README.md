@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hi there! I'm Sakshi Singh
-![Banner](https://i.pinimg.com/originals/10/f2/50/10f250756a572c05bf6bfde171dad0ba.gif)
+
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-purple?style=for-the-badge&logo=react)](https://bysakshi.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sakshi-singh-88683024a/)
